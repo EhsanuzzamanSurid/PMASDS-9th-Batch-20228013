@@ -1,6 +1,9 @@
 # PMASDS-9th-Batch-20228013
 The Assignment Code repository
 
+THE LINK TO THE ANSWERS
+https://colab.research.google.com/drive/1BcZttPL7AH0DJ_yeGnoXwE9S07RNZBJk#scrollTo=583fb246
+
 Assignment 
 
 1. Write a Python program to count the number of characters (character frequency) in a string. Sample String : google.com
